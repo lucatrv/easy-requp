@@ -1,0 +1,59 @@
+# Easy ReqUp
+easy-requp
+
+# Development tools
+mypy
+isort
+autopep8
+black
+yapf
+bandit
+flake8
+pydocstyle
+pylint
+rope
+
+# Packages development tools
+cookiecutter
+wheel
+twine
+
+# Spyder
+spyder
+
+# Jupyter
+notebook
+jupyter_contrib_nbextensions
+jupyterlab
+jupyterlab_code_formatter
+voila
+papermill
+
+# SciPy
+numpy
+scipy
+matplotlib
+ipython
+sympy
+pandas
+
+# Statistics
+scikit-learn
+statsmodels
+
+# Excel
+openpyxl
+xlwings
+xlrd
+
+# Visualization
+seaborn
+altair
+vega-datasets
+bqplot
+
+# Compilers
+cython
+numba
+nuitka
+pyinstaller
