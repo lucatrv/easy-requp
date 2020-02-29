@@ -17,7 +17,7 @@
 
 """Easily manage Python packages based on requirements file specifications."""
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 
 import argparse
